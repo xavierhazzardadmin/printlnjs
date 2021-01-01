@@ -3,7 +3,7 @@
 This is a small, lightweight function that allows you to run console.log by using println.
 It has the option to also choose spacing between lines for simplicity in reading.
 
-#Installation
+# Installation
 
 `npm i printnln --save`
 
