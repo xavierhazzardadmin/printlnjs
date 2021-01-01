@@ -1,4 +1,4 @@
-async function println(...val) {
+async function printnln(...val) {
 	if (val[0] !== NaN) {
 		var n = val[0];
 		var l = val.length;
@@ -17,4 +17,4 @@ async function println(...val) {
 	}
 }
 
-module.exports.println = println;
+module.exports.printnln = printnln;

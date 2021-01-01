@@ -1,7 +1,7 @@
 {
 	"name": "printnln",
 	"version": "1.0.0",
-	"description": "A simple asynchronous console.log that allows multiple arugments and prints on multiples lines",
+	"description": "A simple asynchronous console.log that allows multiple arguments and prints on multiples lines",
 	"main": "app.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

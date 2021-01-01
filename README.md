@@ -10,7 +10,7 @@ It has the option to also choose spacing between lines for simplicity in reading
 Then...
 
 ```js
-const println = require("printnln");
+const printnln = require("printnln");
 ```
 
 # How to use it?
@@ -18,7 +18,7 @@ const println = require("printnln");
 All you do it run the function like this, with the arguments you want:
 
 ```js
-println("text", "text");
+printnln("text", "text");
 ///output
 text;
 text;
@@ -27,7 +27,7 @@ text;
 You can also add a number as the beginning argument to choose the line spacing:
 
 ```js
-println(2, "text", "text");
+printnln(2, "text", "text");
 //output
 text;
 
