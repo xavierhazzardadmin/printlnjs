@@ -1,6 +1,6 @@
 {
 	"name": "printnln",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple asynchronous console.log that allows multiple arguments and prints on multiples lines",
 	"main": "app.js",
 	"scripts": {
@@ -11,5 +11,8 @@
 		"url": "git+https://github.com/xavierhazzardadmin/printlnjs.git"
 	},
 	"author": "xavierhazzardadmin",
-	"license": "MIT"
+	"license": "MIT",
+	"dependencies": {
+		"printnln": "^1.0.0"
+	}
 }

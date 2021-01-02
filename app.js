@@ -17,4 +17,4 @@ async function printnln(...val) {
 	}
 }
 
-module.exports.printnln = printnln;
+module.exports = printnln;
