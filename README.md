@@ -20,8 +20,8 @@ All you do it run the function like this, with the arguments you want:
 ```js
 printnln("text", "text");
 ///output
-text;
-text;
+text
+text
 ```
 
 You can also add a number as the beginning argument to choose the line spacing:
@@ -29,7 +29,7 @@ You can also add a number as the beginning argument to choose the line spacing:
 ```js
 printnln(2, "text", "text");
 //output
-text;
+text
 
-text;
+text
 ```
